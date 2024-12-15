@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import './index.css';
-import "animate.css/animate.compat.css";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";

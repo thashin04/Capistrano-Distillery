@@ -127,7 +127,7 @@ const ProductPage = () => {
           </div>
 
           {/* Section 3 */}
-          <div className="w-full flex justify-center">
+          <div className="w-full flex py-9 justify-center">
             <div className=" border-2 border-[#FAF5F0] rounded-full px-6 py-3">
               <h1 className="gabarito-bigger text-center  text-[#FAF5F0]">BOTTLED LAMBANOG</h1>
             </div>

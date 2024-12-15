@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import './index.css';
-import "animate.css/animate.compat.css";
 import FlipCard from './FlipCard';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";

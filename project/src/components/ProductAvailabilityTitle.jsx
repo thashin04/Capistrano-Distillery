@@ -1,6 +1,5 @@
 import React from 'react';
 import './index.css';
-import "animate.css/animate.compat.css";
 
 const ProductAvailabilityTitle = () => {
   return (

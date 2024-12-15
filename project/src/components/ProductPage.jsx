@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import './index.css';
-import "animate.css/animate.compat.css";
 import FlipCard from './FlipCard';
 import prod1 from "../images/prod1.png";
 import prodback1 from "../images/prodback1.png";
